@@ -1,4 +1,4 @@
-# Banking-Management-System
+🏦 Banking System Project
 
 Welcome to the Banking System project! This Java-based application allows you to manage user accounts, perform transactions, and ensure the security of financial data.
 
@@ -25,8 +25,11 @@ MySQL (or your preferred database system)
 
 📸 Screenshots
 Screenshot 1
+![Database Schema](https://github.com/AniketDhokane/Banking-Management-System/assets/91971205/922afaf1-6a33-4e0e-bdf0-8979c9792094)
 
 🤝 Contributing
 Contributions are welcome! Feel free to submit issues and pull requests.
 
 Happy coding! 🎉
+
+
