@@ -25,7 +25,6 @@ MySQL (or your preferred database system)
 
 📸 Screenshots
 Screenshot 1
-![Database Schema](https://github.com/AniketDhokane/Banking-Management-System/assets/91971205/922afaf1-6a33-4e0e-bdf0-8979c9792094)
 
 🤝 Contributing
 Contributions are welcome! Feel free to submit issues and pull requests.
